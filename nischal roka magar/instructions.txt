@@ -1,0 +1,28 @@
+INSTRUCTIONS and GUIDELINES: 
+
+to save time you can copy body/content texts from provided file "web_text"
+
+Find font/text style information from provided style.css file
+
+Find images and icons from provided collection with respective filenames eg: fb-icon.png 
+
+top navigation should be sticky i.e should not move when page is scrolled down.
+
+top navigation color: blue
+top navigation text color: white
+top navigation selected element : border bottom green color 5px
+social media icons: width/height: 40px 
+
+header section color: lightgray
+left section color: lightblue
+right section color: lightpink
+
+left section list type i ii iii etc
+right section list type circular 
+left/right section max height 550px , list overflow should be scrollable
+
+footer color: black
+
+IMPORTANT: in footer text  " © 2025 WAT TBC - PS ....... "  Replace PS with your name initials before " All rights reserved " 
+
+Try your best to replicate the layout design while ensuring proper alignment, spacing and text placements as showcased in the layout design.
